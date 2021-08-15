@@ -1,0 +1,24 @@
+{
+  "version": "0.1", 
+  "database": {
+    "last_update_utc": "2021-08-15T13:30:37.933000", 
+    "functions": {
+      "0xaaee86a55bbecd83": "f__Strcat", 
+      "0x68ab3a20e0806cb9": "f__Strcpy", 
+      "0xe272f3501413fcbf": "f__Itoa", 
+      "0x21017015108e0c04": "f__Strstr", 
+      "0xbf443ceebacff199": "f__Strchr", 
+      "0xada18d5e21b35f37": "f__ToUpper", 
+      "0x7ebc9f242301cb7f": "f__Strlen", 
+      "0xbf90083caac8913d": "f__Itoa", 
+      "0x7f2af2530168894d": "f__Memset", 
+      "0x31bd1ac1d875fd12": "f__Strcat", 
+      "0x4ba5d7eb31aaefa1": "f__Strlen", 
+      "0xb1fe34907af36e2d": "f__Strcmp", 
+      "0x1209b4d702111d40": "f__Strstr", 
+      "0x1c9ee9e0121d1c7a": "f__Strncat", 
+      "0x5fee2a4f48a9cc24": "f__Strcpy"
+    }, 
+    "entries": 15
+  }
+}
